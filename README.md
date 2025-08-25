@@ -4,7 +4,7 @@ Este projeto é uma aplicação web desenvolvida para otimizar e padronizar o pr
 
 ## 📸 Screenshot
 
-![Screenshot da Aplicação](/preview.png)
+![Screenshot da Aplicação](/public/preview.png)
 
 
 ## ✨ Funcionalidades Principais
